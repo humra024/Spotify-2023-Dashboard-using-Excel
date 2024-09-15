@@ -1,8 +1,13 @@
 # Spotify-2023-Dashboard-using-Excel
 
+Executed comprehensive data analysis in Excel on Spotify 2023 data, unearthing impactful insights such as identifying top-streamed songs like "Blinding Lights" (~3.7 Billion streams) and "Shape of You" (~3.5 Billion streams), chart dominance with "Seven" by Jungkook appearing in 147 charts, and discovering correlations like the inverse relationship between Acousticness and Energy levels.
+
 Link - https://onedrive.live.com/view.aspx?resid=46290C30EC4AB817%216489&authkey=!AF9N7ee36oMIvZU
 
-Executed comprehensive data analysis in Excel on Spotify 2023 data, unearthing impactful insights such as identifying top-streamed songs like "Blinding Lights" (~3.7 Billion streams) and "Shape of You" (~3.5 Billion streams), chart dominance with "Seven" by Jungkook appearing in 147 charts, and discovering correlations like the inverse relationship between Acousticness and Energy levels.
+Dashboard Image
+
+![Screenshot 2024-09-15 at 7 00 56 AM](https://github.com/user-attachments/assets/c009d539-5bf4-48df-8313-1302ddf63225)
+
 
 Key Insights:
 1.	Top Streamed Songs (2023): The most streamed songs of 2023 include "Blinding Lights" (~3.7 Billion streams), "Shape of You" (~3.5 Billion streams), and "Someone You Loved" (~2.8 Billion streams), indicating their widespread popularity among Spotify users.
