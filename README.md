@@ -16,5 +16,4 @@ Key Insights:
 4.	Song Tempo Analysis: The majority of top-streamed songs have tempos of 120, 140, or 95 beats per minute, suggesting a correlation between tempo and listener engagement.
 5.	Artist Collaborations: Around 40% of the most streamed songs feature a single artist, while 34% involve two artists, with a smaller percentage (17%) featuring three artists. Only 9% of songs feature more than three artists, highlighting the predominance of solo or duet collaborations.
 6.	Acousticness and Energy Correlation: Acousticness and energy exhibit an inverse correlation, indicating that songs with higher acousticness tend to have lower energy levels, and vice versa.
-![image](https://github.com/humra024/Spotify-2023-Dashboard-using-Excel/assets/72643236/0250cfac-2c8d-40bf-ae97-f4245143d5cf)
 
